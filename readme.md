@@ -1,8 +1,7 @@
-# はなリサボタン
+# test
 
 ## なにこれ？
-[動くものはこちらから。](https://niltea.github.io/hanarisa-button/)
-ボタンを押すと、[はなリサちゃん](https://www.youtube.com/channel/UCurEA8YoqFwimJcAuSHU0MQ)がお話ししてくれます。
+testdao
 
 ## 実装
 ボタンの[data-voice]属性に指定されたファイル名に基づき音声を読み込み、
