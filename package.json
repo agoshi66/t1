@@ -1,5 +1,5 @@
 {
-  "name": "hanarisa-button",
+  "name": "test",
   "version": "1.0.0",
   "main": "index.js",
   "license": "CC-BY-NC-SA-4.0",
@@ -35,6 +35,6 @@
     "watch:webpack": "webpack -w",
     "watch": "yarn run watch:webpack & yarn run watch:pug"
   },
-  "repository": "git@github.com:niltea/hanarisa-button.git",
-  "author": "niltea <futurabodoni@gmail.com>"
+  "repository": "git@github.com:agoshi66/t1.git",
+  "author": "agoshi66 <test@gmail.com>"
 }
